@@ -13,7 +13,7 @@ Examine the commit log.
 
 ## Flag 2
 
-Print out the file `flag.txt` on the console.
+Explore the repository a bit. Print out the file `flag.txt` on the console.
 
 ## Flag 3
 
